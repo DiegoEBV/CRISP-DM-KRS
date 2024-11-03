@@ -6,10 +6,9 @@ Este proyecto, desarrollado como parte de la asignatura **Fundamentos de Data Sc
 El objetivo principal de este proyecto es extraer conocimiento valioso a partir de los datos de tendencias de YouTube en Corea del Sur y responder preguntas específicas que puedan ayudar a la toma de decisiones estratégicas. Este análisis busca identificar patrones en las tendencias de videos, categorías populares, y métricas de interacción (como vistas, me gusta, y comentarios) y explorar si es posible predecir estas métricas a través de modelos de machine learning.
 
 ## Integrantes del Proyecto
-- [Nombre del Estudiante 1]
-- [Nombre del Estudiante 2]
-- [Nombre del Estudiante 3]
-- [Nombre del Estudiante 4]
+- Diego Ballón
+- B
+- C
 
 ## Descripción del Conjunto de Datos
 El conjunto de datos utilizado para este análisis, denominado "Tendencias de YouTube en Corea del Sur", proporciona información diaria sobre los videos más populares en YouTube en Corea del Sur. Los datos incluyen información detallada sobre:
